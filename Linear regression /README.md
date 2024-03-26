@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on demonstrating the application of Linear Regression to predict outcomes based on a given dataset. Using Python and Jupyter Notebook, we explore the fundamentals of Linear Regression, including data preprocessing, model fitting, evaluation, and interpretation of results. The project serves as an educational tool for understanding how to implement and interpret Linear Regression models in a data science context.
+This project focuses on demonstrating the application of Linear Regression to predict outcomes based on a given dataset. Using Python and Jupyter Notebook,  the fundamentals of Linear Regression are explored, including data preprocessing, model fitting, evaluation, and interpretation of results. The project serves as an educational tool for understanding how to implement and interpret Linear Regression models in a data science context.
 
 ## Objective
 
