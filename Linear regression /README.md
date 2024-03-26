@@ -17,3 +17,7 @@ The primary goal of this project is to:
 - **Pandas & NumPy**
 - **Matplotlib & Seaborn**
 - **Scikit-learn**
+
+# Results
+
+- Achieved a Mean Square Error (MSE) of 0.175
